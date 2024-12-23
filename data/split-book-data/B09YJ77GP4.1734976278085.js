@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast you’ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned on his path from $100M to $1B in net worth."; 
